@@ -1,1 +1,4 @@
 data.json
+.venv/
+agent.md
+__pycache__/
